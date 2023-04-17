@@ -126,7 +126,7 @@
 1. [StandardModels.WindDynamics.WindDynamicsType3](Model.TC57CIM.IEC61970.Dynamics.StandardModels.WindDynamics.WindDynamicsType3.pdf)
 1. [StandardModels.WindDynamics.WindDynamicsType4](Model.TC57CIM.IEC61970.Dynamics.StandardModels.WindDynamics.WindDynamicsType4.pdf)
 1. [Dynamics.UserDefinedModels.ProprietaryUserDefinedModels](Model.TC57CIM.IEC61970.Dynamics.UserDefinedModels.ProprietaryUserDefinedModels.pdf)
-1. [TC57CIM.IEC61970.IEC61970Dependencies](Model.TC57CIM.IEC61970.IEC61970Dependencies.pdf)
+1. [TC57CIM.IEC61970.IEC61970Dependencies]('Model.TC57CIM.IEC61970.IEC61970Dependencies.pdf')
 1. [Meta.Breakout.Group.Assembly](Model.TC57CIM.IEC61970.InfIEC61970.2020.Meta.Breakout.Group.Assembly.pdf)
 1. [Group.Model ChangeModel Framework](Model.TC57CIM.IEC61970.InfIEC61970.2020.Meta.Breakout.Group.Model.ChangeModel.Framework.pdf)
 1. [Meta Breakout Group.OperationTrail](Model.TC57CIM.IEC61970.InfIEC61970.2020.Meta.Breakout.Group.OperationTrail.pdf)
