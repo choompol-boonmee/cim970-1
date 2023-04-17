@@ -128,7 +128,7 @@
 1. [Dynamics.UserDefinedModels.ProprietaryUserDefinedModels](Model.TC57CIM.IEC61970.Dynamics.UserDefinedModels.ProprietaryUserDefinedModels.pdf)
 1. [TC57CIM.IEC61970.IEC61970Dependencies](Model.TC57CIM.IEC61970.IEC61970Dependencies.pdf)
 1. [Meta.Breakout.Group.Assembly](Model.TC57CIM.IEC61970.InfIEC61970.2020.Meta.Breakout.Group.Assembly.pdf)
-1. [Meta Breakout Group.Assembly](Model.TC57CIM.IEC61970.InfIEC61970.2020\ Meta\ Breakout\ Group.Assembly.pdf)
+1. [Meta Breakout Group.Assembly](Model.TC57CIM.IEC61970.InfIEC61970.2020&#32;Meta&#32;Breakout&#32;Group.Assembly.pdf)
 1. [Group.Model ChangeModel Framework](Model.TC57CIM.IEC61970.InfIEC61970.2020.Meta.Breakout.Group.Model.ChangeModel.Framework.pdf)
 1. [Meta Breakout Group.OperationTrail](Model.TC57CIM.IEC61970.InfIEC61970.2020.Meta.Breakout.Group.OperationTrail.pdf)
 1. [InfIEC61970.EnergyArea.EnergyArea](Model.TC57CIM.IEC61970.InfIEC61970.EnergyArea.EnergyArea.pdf)
